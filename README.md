@@ -1,4 +1,5 @@
 # cuie-canton-map-example
+![thumbnail_image001](https://user-images.githubusercontent.com/62279352/122012348-5bf18500-cdbd-11eb-939d-1f00ee30987b.png)
 
 Version 1) Normal version, with normal canton names ("Aargau", "Zug") - https://github.com/m-bug/cuie-canton-map-example-gradle/raw/main/CantonMap.zip
 
