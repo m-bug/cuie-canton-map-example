@@ -5,6 +5,8 @@ Version 1) Normal version, with normal canton names ("Aargau", "Zug") - https://
 
 Version 2) Alternative version, with short canton names ("AG", "ZG") - https://github.com/m-bug/cuie-canton-map-example-gradle/raw/main/CantonMap_shortname.zip
 
+Update (19. June 2021): The component now fully works with Java 11 (newer Java versions are still working fine)!
+
 ## Getting Started
 1. Download one of the zip from above
 2. Go into .zip and navigate to "src\main\resources" and copy folder "fonts" and file "canton_data.txt" to your "src\main\resources"
